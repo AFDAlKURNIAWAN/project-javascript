@@ -1,0 +1,1 @@
+// array pertanyaan dan jawaban
